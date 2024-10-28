@@ -70,7 +70,7 @@ const MyEvents = () => {
         />
         <button
           type="submit"
-          className="w-full bg-slate-800 text-white p-2 rounded-md hover:bg-blue-600 transition duration-200"
+          className="w-full bg-indigo-800 text-white p-2 rounded-md hover:bg-blue-600 transition duration-200"
         >
           Add Event
         </button>
