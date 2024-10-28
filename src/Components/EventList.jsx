@@ -48,7 +48,7 @@ const EventList = () => {
               </p>
               <button 
                 onClick={() => openModal(event)} 
-                className="rounded-md bg-slate-800 py-2 px-4 mt-6 border border-transparent text-center text-sm text-white transition-all shadow-md hover:shadow-lg"
+                className="rounded-md bg-indigo-800 py-2 px-4 mt-6 border border-transparent text-center text-sm text-white transition-all shadow-md hover:shadow-lg"
               >
                 Read more
               </button>
